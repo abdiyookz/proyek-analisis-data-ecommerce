@@ -440,3 +440,6 @@ ax[2].tick_params(axis ='y', labelsize=14)
 
 plt.suptitle("Best State Based on RFM Parameters", fontsize=24)
 st.pyplot(fig)
+
+# Caption
+st.caption("(c) Abdillah Dwi Cahya 2024 - Data owned by Olist")
